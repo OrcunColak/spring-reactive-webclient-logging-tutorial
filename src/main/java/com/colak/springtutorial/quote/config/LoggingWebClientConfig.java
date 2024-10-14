@@ -1,4 +1,4 @@
-package com.colak.springtutorial.quote.config.logginwebclient;
+package com.colak.springtutorial.quote.config;
 
 import lombok.extern.slf4j.Slf4j;
 import org.eclipse.jetty.client.HttpClient;
